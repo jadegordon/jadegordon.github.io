@@ -1,0 +1,39 @@
+
+body{
+  background: peachpuff;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+h1{
+  color:lightcoral;
+}
+
+h2{
+  color:tomato;
+}
+
+.heading{
+  font-weight: bold;
+}
+
+#important{
+  color: pink;
+  font-size: 200%;
+}
+
+a{
+  color: coral;
+}
+
+
+#stick
+{
+  width:30px;
+  height:30px;
+}
+
+
+
