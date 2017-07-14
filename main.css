@@ -1,4 +1,3 @@
-
 body{
   background: peachpuff;
 }
@@ -20,7 +19,7 @@ h2{
 }
 
 #important{
-  color: pink;
+  color: crimson;
   font-size: 200%;
 }
 
@@ -28,11 +27,14 @@ a{
   color: coral;
 }
 
+#curry{
+  width:550px;
+  height:400px;
+}
 
-#stick
-{
-  width:30px;
-  height:30px;
+#stick{
+  width:500px;
+  height:500px;
 }
 
 
